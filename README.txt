@@ -1,3 +1,5 @@
+Java implementation of GBN protocol for CS456.
+
 Instructions:
 1. Compile code by calling:
 	make
@@ -14,5 +16,3 @@ Instructions:
 Dev Environment: Mac OS Sierra v. 10.12
 Java Version 1.8.0_92
 Compiler version: GNU-make 3.81
-
-Tested on ubuntu1404-002.student.cs.uwaterloo.ca, ubuntu1404-004.student.cs.uwaterloo.ca and ubuntu1404-006.student.cs.uwaterloo.ca
